@@ -12,7 +12,9 @@ Texte
 
 ### Notre charte graphique
 
-L'ensemble de la [charte graphique est accessible ici](docs/source/public/Charte_graphique_datactivist.pdf)
+<div class="hint">
+L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">charte graphique est accessible ici</a>.
+</div>
 
 Ci dessous les codes couleurs prncipaux :
 
