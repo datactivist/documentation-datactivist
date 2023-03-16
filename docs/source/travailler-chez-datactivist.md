@@ -33,6 +33,11 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 | Intermédiaire | 3054 € brut    |
 | Senior        | 3500 € brut    |
 
+| Titre de la colonne 1 | Titre de la colonne 2 |
+| ---------------------|----------------------|
+| Cellule 1, colonne 1  | Cellule 1, colonne 2  |
+| Cellule 2, colonne 1  | Cellule 2, colonne 2  |
+
 **Primes en fonction des responsabilités :**
 
 - Accompagnement stagiaire, tutorat
