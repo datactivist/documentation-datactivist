@@ -30,21 +30,21 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 <table>
     <thead>
         <tr>
-            <th>Niveau</th>
+            <th>Niveau    </th>
             <th>Salaire mensuel</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Junior</td>
+            <td>Junior    </td>
             <td>2730 € brut</td>
         </tr>
         <tr>
-            <td>Intermédiaire</td>
+            <td>Intermédiaire    </td>
             <td>3054 € brut</td>
         </tr>
         <tr>
-            <td>Senior</td>
+            <td>Senior    </td>
             <td>3500 € brut</td>
         </tr>
     </tbody>
