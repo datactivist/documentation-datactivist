@@ -111,16 +111,26 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Primes en fonction des responsabilités :**
 
-Accompagnement stagiaire, tutorat
-d’alternant, référent junior, DPO, animation
-de communautés : 50 € brut/mois
-   
-Prime de vacances SYNTEC versée 1 fois/an
-en octobre (entre 100 et 300 € brut).
+<table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Objet</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Montant</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Accompagnement stagiaire, tutorat d’alternant, référent junior, DPO, animation de communautés</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">50 € brut/mois</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Prime de vacances SYNTEC versée 1 fois/an en octobre</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">entre 100 et 300 € brut</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Indemnité de télétravail</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">10 € brut / jour de télétravail (plafonné à 50 € brut / mois pour un sal
 
-Indemnité de télétravail : 10 € brut / jour de
-télétravail (plafonné à 50 € brut / mois pour
-un salarié à temps plein).
    
 ### La rémunération différée
 
