@@ -16,41 +16,43 @@ Texte
 L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">charte graphique est accessible ici</a>.
 </div>
 
-<table>
+<table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
   <thead>
     <tr>
-      <th>Couleur</th>
-      <th>Code hexadécimal</th>
-      <th>RVB</th>
-      <th>CMJN</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Couleur</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Code hexadécimal</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">RVB</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">CMJN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Nuit</td>
-      <td>#173541</td>
-      <td>23/53/65</td>
-      <td>89/67/53/50</td>
+      <td style="background-color: #173541; color: #ffffff; padding: 10px;">Nuit</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">#173541</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">23/53/65</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">89/67/53/50</td>
     </tr>
     <tr>
-      <td>Rouge</td>
-      <td>#E95459</td>
-      <td>233/84/89</td>
-      <td>4/82/61/0</td>
+      <td style="background-color: #E95459; color: #ffffff; padding: 10px;">Rouge</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">#E95459</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">233/84/89</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">4/82/61/0</td>
     </tr>
     <tr>
-      <td>Rosé</td>
-      <td>#FFF1EB</td>
-      <td>255/241/235</td>
-      <td>0/5/5/0</td>
+      <td style="background-color: #FFF1EB; padding: 10px;">Rosé</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">#FFF1EB</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">255/241/235</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">0/5/5/0</td>
     </tr>
     <tr>
-      <td>Bleu (vert d'eau)</td>
-      <td>#4ED9CC</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td style="background-color: #4ED9CC; color: #ffffff; padding: 10px;">Bleu (vert d'eau)</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">#4ED9CC</td>
+      <td style="background-color: #f2f2f2; padding: 10px;"></td>
+      <td style="background-color: #f2f2f2; padding: 10px;"></td>
     </tr>
   </tbody>
+</table>
+
 </table>
 
 
