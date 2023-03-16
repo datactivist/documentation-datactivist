@@ -27,16 +27,29 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Grille de salaire avec trois niveaux**
 
-| Niveau        | Salaire mensuel |
-|---------------|----------------|
-| Junior        | 2730 € brut    |
-| Intermédiaire | 3054 € brut    |
-| Senior        | 3500 € brut    |
+<table>
+    <thead>
+        <tr>
+            <th>Niveau</th>
+            <th>Salaire mensuel</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Junior</td>
+            <td>2730 € brut</td>
+        </tr>
+        <tr>
+            <td>Intermédiaire</td>
+            <td>3054 € brut</td>
+        </tr>
+        <tr>
+            <td>Senior</td>
+            <td>3500 € brut</td>
+        </tr>
+    </tbody>
+</table>
 
-| Titre de la colonne 1 | Titre de la colonne 2 |
-| ---------------------|----------------------|
-| Cellule 1, colonne 1  | Cellule 1, colonne 2  |
-| Cellule 2, colonne 1  | Cellule 2, colonne 2  |
 
 **Primes en fonction des responsabilités :**
 
