@@ -47,8 +47,8 @@ L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">c
     <tr>
       <td style="background-color: #4ED9CC; color: #ffffff; padding: 10px;">Bleu (vert d'eau)</td>
       <td style="background-color: #f2f2f2; padding: 10px;">#4ED9CC</td>
-      <td style="background-color: #f2f2f2; padding: 10px;"></td>
-      <td style="background-color: #f2f2f2; padding: 10px;"></td>
+      <td style="background-color: #f2f2f2; padding: 10px;">78, 217, 204</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">100,99,0,12</td>
     </tr>
   </tbody>
 </table>
