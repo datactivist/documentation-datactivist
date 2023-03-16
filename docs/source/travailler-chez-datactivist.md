@@ -133,6 +133,8 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
    </tr>
    </tbody>
  </table>
+ 
+<p>
    
 ### La rémunération différée
 
@@ -143,7 +145,9 @@ Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers 
 **Accord d’intéressement** mis en place en fin d’année 2022.
    
 **Compte épargne temps** mis en place en fin d’année 2022.
-   
+
+<p>
+
 ### Les avantages sociaux
    
 <table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
@@ -173,7 +177,8 @@ Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers 
   </tbody>
 </table>
 
-
+<p>
+  
 ### La rémunération périphérique
    
 - Mutuelle Alan Blue prise en charge à 100 % pour le⋅a salarié⋅e (valeur : 85 €/mois) et ses enfants45€/enfant).
