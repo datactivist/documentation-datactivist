@@ -124,12 +124,12 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
       <td style="background-color: #f2f2f2; padding: 10px;">50 € brut/mois</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Prime de vacances SYNTEC versée 1 fois/an en octobre</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">entre 100 et 300 € brut</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">Prime de vacances SYNTEC, 1 fois/an en octobre</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">100 à 300 € brut</td>
     </tr>
     <tr>
       <td style="background-color: #f2f2f2; padding: 10px;">Indemnité de télétravail</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">10 € brut / jour de télétravail (plafonné à 50 € brut / mois pour un sal
+      <td style="background-color: #f2f2f2; padding: 10px;">jusqu'à 50 € brut / mois</td>
    </tr>
    </tbody>
  </table>
