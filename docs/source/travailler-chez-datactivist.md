@@ -87,3 +87,13 @@ Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers 
 - Mutuelle Alan Blue prise en charge à 100 % pour le⋅a salarié⋅e (valeur : 85 €/mois) et ses enfants45€/enfant).
 - Contrat de prévoyance chez Alan pour l’ensemble des salariés (complément des prestations servies par la Sécurité sociale en couverture des risques liés à l’intégrité physique (maladie, accident), maternité, l’incapacité de travail temporaire, l’invalidité et le décès) (valeur : 0,89% du
 salaire brut).
+   
+## Organisation du temps de travail
+
+Notre temps de travail hebdomadaire : **35 heures**
+   
+Congés : **7 semaines de congés payés / an** à poser sur l’espace salarié de Payfit où l’on peut suivre le solde des congés.
+
+**Journée de solidarité :** nous avons opté pour le fractionnement de cette journée
+avec 7 heures travaillées en plus réparties sur l’année
+
