@@ -47,9 +47,10 @@ L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">c
     <tr>
       <td>Bleu (vert d'eau)</td>
       <td>#4ED9CC</td>
-      <td></td>
-      <td></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
+
 
