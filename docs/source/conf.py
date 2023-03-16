@@ -34,3 +34,11 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Add a source parser for Markdown files
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
+# Set the source file suffixes to include Markdown files
+source_suffix = ['.rst', '.md']
