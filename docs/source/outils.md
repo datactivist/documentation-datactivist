@@ -4,13 +4,13 @@
 
 ### Objectifs
 
-xaringan permet de produire des slides au format HTML, qui s'affichent dans le navigateur. Ces slides sont publiées sur le web et contribuent au bon référencement de nos contenus et à la diffusion de notre expertise. Comme de nombreuses productions de Datactivist, elles sont idéalement réutilisables en licence Creative Commons BY-SA.
+xaringan permet de produire des slides au format HTML, qui s'affichent dans le navigateur. Ces slides sont publiées sur le web et contribuent au bon référencement de nos contenus et à la diffusion de notre expertise. Comme de nombreuses [productions de Datactivist](https://datactivist.coop/fr/ressources/), elles sont idéalement réutilisables en licence Creative Commons BY-SA.
 
-Autre avantage : on peut y intégrer des figures produites directement avec du code R (programmation lettrée), des frames HTML (vidéo YouTube, tweet, contenu interactif genially…), des tableaux interactifs (package DT : exemple)…
+Autre avantage : on peut y intégrer des figures produites directement avec du code R ([programmation lettrée](https://fr.wikipedia.org/wiki/Programmation_lettr%C3%A9e)), des frames HTML (vidéo YouTube, tweet, contenu interactif genially…), des tableaux interactifs (package DT : [exemple](https://datactivist.coop/je_docs_donnees/#16))…
 
 ### Installer xaringan
 
-1. installer le logiciel RStudio Desktop
+1. installer le logiciel [RStudio Desktop](https://posit.co/downloads/)
 2. pour installer le template (qui installe la dépendance xaringan), lancer la commande :
 
    `remotes::install_github("datactivist/slides_datactivist")`
@@ -28,9 +28,9 @@ Il est aussi possible d'ouvrir une présentation Rmd existante dans RStudio pour
 
 La présentation se présente sous la forme d'un header yaml (séparé entre '---') qui gère les paramètres de compilation, et de texte brut mêlant le contenu des diapos et les instructions de mise en forme.
 
-La syntaxe de la mise en page de la préz est décrite ici (en anglais) : https://bookdown.org/yihui/rmarkdown/xaringan-format.html
+📘[La syntaxe de la mise en page de la préz est décrite ici (en anglais)](https://bookdown.org/yihui/rmarkdown/xaringan-format.html)
 
-La syntaxe Markdown permettant d'ajouter et mettre en forme du texte est ici (en anglais) : https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
+📘 [La syntaxe Markdown permettant d'ajouter et mettre en forme du texte est ici (en anglais)](https://bookdown.org/yihui/rmarkdown/markdown-syntax.html)
 
 xaringan n'est pas WYSIWYG (What you see is what you get) : vous ne voyez pas la forme définitive de la préz quand vous l'éditez. Pour cela, il est possible de lancer le prévisualiseur en cliquant dans RStudio sur Addins > Slides Datactivist ou bien Addins > Infinite Moon Reader. A chaque fois que vous enregistrerez votre fichier Rmd, le prévisualiseur se rafraîchira. Attention : Infinite Moon Reader n'est pas parfait et, dans certains cas, peut échouer à prévisualiser certains contenus.
 
