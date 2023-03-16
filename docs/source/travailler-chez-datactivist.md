@@ -83,28 +83,29 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Grille de salaire avec trois niveaux**
 
-   <table>
-      <thead>
-         <tr>
-            <th>Niveau &nbsp; &nbsp;</th>
-            <th>Salaire mensuel</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Junior &nbsp; &nbsp;</td>
-            <td>2730 € brut</td>
-         </tr>
-         <tr>
-            <td>Intermédiaire &nbsp; &nbsp;</td>
-            <td>3054 € brut</td>
-         </tr>
-         <tr>
-            <td>Senior</td>
-            <td>3500 € brut</td>
-         </tr>
-      </tbody>
-   </table>
+  <table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <thead>
+    <tr>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Niveau</th>
+      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Salaire mensuel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Junior &nbsp;&nbsp;</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">2730 € brut</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Intermédiaire &nbsp;&nbsp;</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">3054 € brut</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2; padding: 10px;">Senior</td>
+      <td style="background-color: #f2f2f2; padding: 10px;">3500 € brut</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <p>
 
