@@ -1,22 +1,16 @@
 Bienvenue sur la documentation de Datactivist !
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Retrouvez ici toutes les informations essentielles sur Datactivist et son fonctionnement.
+Que vous soyez nouvellement salarié•e, partenaire ou client, notre documentation vous est entièrement accessible.
 
 .. note::
 
-   This project is under active development.
+   La documentation est en amélioration continue, n'hésitez pas à proposer des ajouts directement depuis Github.`Github <https://github.com/datactivist/documentation-datactivist/>`_
+   
 
-Contents
+Contenus
 --------
 
 .. toctree::
-   usage
-   api
-   documentation
+
