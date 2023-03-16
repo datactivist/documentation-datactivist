@@ -67,19 +67,23 @@ un salarié à temps plein).
    
 ### La rémunération différée
 
-**Accord de participation** actualisé en 2021
-pour l’ensemble des salarié·e·s à partir de
-trois mois de présence dans la SCOP. 
+**Accord de participation** actualisé en 2021 pour l’ensemble des salarié·e·s à partir de trois mois de présence dans la SCOP. 
 
-Les droits (50 % du résultat net annuel, en
-moy. 40k€ sur les trois derniers exercices)
-sont répartis en fonction de la quotité de
-temps de travail et de l’ancienneté et
-bloqués pendant 5 ans (avec possibilité de
-déblocage anticipé dans certains cas).
+Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers exercices)sont répartis en fonction de la quotité de temps de travail et de l’ancienneté et bloqués pendant 5 ans (avec possibilité de déblocage anticipé dans certains cas).
    
-**Accord d’intéressement** mis en place en
-fin d’année 2022.
+**Accord d’intéressement** mis en place en fin d’année 2022.
    
-**Compte épargne temps** mis en place en
-fin d’année 2022.
+**Compte épargne temps** mis en place en fin d’année 2022.
+   
+### Les avantages sociaux
+   
+- Prise en charge à 50 % de l’abonnement aux transports en commun.
+- Tickets restaurant SWILE d’une valeur faciale de 9,48 € avec prise en charge à 60% soit 5,69 €.
+- Forfait mobilité durable d’un montant de 500 € ou 600 € / an.
+- Chèques culture 150 € / salarié·e (en 2022)
+
+### La rémunération périphérique
+   
+- Mutuelle Alan Blue prise en charge à 100 % pour le⋅a salarié⋅e (valeur : 85 €/mois) et ses enfants45€/enfant).
+- Contrat de prévoyance chez Alan pour l’ensemble des salariés (complément des prestations servies par la Sécurité sociale en couverture des risques liés à l’intégrité physique (maladie, accident), maternité, l’incapacité de travail temporaire, l’invalidité et le décès) (valeur : 0,89% du
+salaire brut).
