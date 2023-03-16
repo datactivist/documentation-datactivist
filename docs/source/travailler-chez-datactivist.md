@@ -12,6 +12,10 @@ Notre mission : réduire les asymétries d’information et permettre à chacun 
 
 ## Découvrir nos valeurs
 
+<div class="hint">
+**Astuce :** Voici une astuce utile à prendre en compte.
+</div>
+
 Vous trouverez notre philosophie et notre raison d'être sur notre [site internet](https://datactivist.coop/fr/a-propos/)
 
 ### Ouverture
