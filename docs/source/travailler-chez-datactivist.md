@@ -54,11 +54,13 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Primes en fonction des responsabilités :**
 
-- Accompagnement stagiaire, tutorat
+Accompagnement stagiaire, tutorat
 d’alternant, référent junior, DPO, animation
 de communautés : 50 € brut/mois
-- Prime de vacances SYNTEC versée 1 fois/an
+   
+Prime de vacances SYNTEC versée 1 fois/an
 en octobre (entre 100 et 300 € brut).
-- Indemnité de télétravail : 10 € brut / jour de
+
+Indemnité de télétravail : 10 € brut / jour de
 télétravail (plafonné à 50 € brut / mois pour
 un salarié à temps plein).
