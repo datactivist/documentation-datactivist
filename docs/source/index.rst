@@ -13,4 +13,5 @@ Contenus
 --------
 
 .. toctree::
-   arriver
+   travailler-chez-datactivist
+   missions-quotidien
