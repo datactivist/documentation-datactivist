@@ -1,6 +1,6 @@
-# Arriver chez Datactivist
+# Travailler chez Datactivist
 
-## Premiers pas
+## Arriver chez Datactivist
 
 Datactivist est une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
 
@@ -10,6 +10,11 @@ Notre mission : réduire les asymétries d’information et permettre à chacun 
 
 ---
 
-## Nos valeurs
+## Découvrir nos valeurs
 
 Vous trouverez notre philosophie et notre raison d'être sur notre [site internet](https://datactivist.coop/fr/a-propos/)
+
+
+## Explorer nos missions
+
+Texte
