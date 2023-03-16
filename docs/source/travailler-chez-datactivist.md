@@ -64,3 +64,22 @@ en octobre (entre 100 et 300 € brut).
 Indemnité de télétravail : 10 € brut / jour de
 télétravail (plafonné à 50 € brut / mois pour
 un salarié à temps plein).
+   
+### La rémunération différée
+
+**Accord de participation** actualisé en 2021
+pour l’ensemble des salarié·e·s à partir de
+trois mois de présence dans la SCOP. 
+
+Les droits (50 % du résultat net annuel, en
+moy. 40k€ sur les trois derniers exercices)
+sont répartis en fonction de la quotité de
+temps de travail et de l’ancienneté et
+bloqués pendant 5 ans (avec possibilité de
+déblocage anticipé dans certains cas).
+   
+**Accord d’intéressement** mis en place en
+fin d’année 2022.
+   
+**Compte épargne temps** mis en place en
+fin d’année 2022.
