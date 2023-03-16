@@ -1,8 +1,4 @@
-# Gérer ses missions au quotidien
-
-## Outils
-
-Texte
+# Réaliser ses missions au quotidien
 
 ## Bonnes pratiques
 
