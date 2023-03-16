@@ -27,22 +27,20 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Grille de salaire avec trois niveaux**
 
-.. raw:: html
-
    <table>
       <thead>
          <tr>
-            <th>Niveau</th>
+            <th>Niveau &nbsp; &nbsp;</th>
             <th>Salaire mensuel</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>Junior</td>
+            <td>Junior &nbsp; &nbsp;</td>
             <td>2730 € brut</td>
          </tr>
          <tr>
-            <td>Intermédiaire</td>
+            <td>Intermédiaire &nbsp; &nbsp;</td>
             <td>3054 € brut</td>
          </tr>
          <tr>
