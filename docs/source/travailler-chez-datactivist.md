@@ -17,4 +17,29 @@ Vous trouverez notre philosophie et notre raison d'être sur notre [site interne
 
 ## Explorer nos missions
 
-Texte
+Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
+
+Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
+
+## Notre politique salariale
+
+### La rémunération directe
+
+**Grille de salaire avec trois niveaux**
+
+|Niveau       |Salaire mensuel|
+|-------------|---------------|
+|Junior       | 2730 € brut   |
+|Intermédiaire| 3054 € brut   |
+|Senior       | 3500 € brut   |
+
+**Primes en fonction des responsabilités :**
+
+- Accompagnement stagiaire, tutorat
+d’alternant, référent junior, DPO, animation
+de communautés : 50 € brut/mois
+- Prime de vacances SYNTEC versée 1 fois/an
+en octobre (entre 100 et 300 € brut).
+- Indemnité de télétravail : 10 € brut / jour de
+télétravail (plafonné à 50 € brut / mois pour
+un salarié à temps plein).
