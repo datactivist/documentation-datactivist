@@ -130,7 +130,9 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
     <tr>
       <td style="background-color: #f2f2f2; padding: 10px;">Indemnité de télétravail</td>
       <td style="background-color: #f2f2f2; padding: 10px;">10 € brut / jour de télétravail (plafonné à 50 € brut / mois pour un sal
-
+   </tr>
+   </tbody>
+ </table>
    
 ### La rémunération différée
 
