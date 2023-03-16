@@ -14,3 +14,5 @@ Contenus
 
 .. toctree::
    documentation
+   Arriver chez Datactivist
+   premiers-pas
