@@ -15,3 +15,4 @@ Contenus
 .. toctree::
    travailler-chez-datactivist
    missions-quotidien
+   partenaires
