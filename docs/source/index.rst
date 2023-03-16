@@ -6,7 +6,7 @@ Que vous soyez nouvellement salarié•e, partenaire ou client, notre documentat
 
 .. note::
 
-   La documentation est en amélioration continue, n'hésitez pas à proposer des ajouts directement depuis Github.`Github <https://github.com/datactivist/documentation-datactivist/>`_
+   La documentation est en amélioration continue, n'hésitez pas à proposer des ajouts directement depuis Github.
    
 
 Contenus
