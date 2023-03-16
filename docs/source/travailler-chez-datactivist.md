@@ -50,6 +50,7 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
       </tbody>
    </table>
 
+<p>
 
 **Primes en fonction des responsabilités :**
 
