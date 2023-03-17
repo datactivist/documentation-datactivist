@@ -1,0 +1,32 @@
+/* Utilise la police Montserrat pour les titres */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: #173541;
+}
+
+/* Ajoute une bordure aux tableaux */
+table {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+/* Donne une couleur de fond aux en-têtes de tableau */
+thead {
+  background-color: #f7f7f7;
+}
+
+/* Ajoute une bordure aux cellules de tableau */
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+/* Donne une couleur de fond différente aux lignes paires et impaires */
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
