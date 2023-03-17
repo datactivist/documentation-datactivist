@@ -116,28 +116,29 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Primes en fonction des responsabilités :**
 
-<table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
+<table>
   <thead>
     <tr>
-      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Objet</th>
-      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Montant</th>
+      <th>Objet</th>
+      <th>Montant</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Accompagnement stagiaire, tutorat d’alternant, référent junior, DPO, animation de communautés</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">50 € brut/mois</td>
+      <td>Accompagnement stagiaire, tutorat d’alternant, référent junior, DPO, animation de communautés</td>
+      <td>50 € brut/mois</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Prime de vacances SYNTEC, 1 fois/an en octobre</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">100 à 300 € brut</td>
+      <td>Prime de vacances SYNTEC, 1 fois/an en octobre</td>
+      <td>100 à 300 € brut</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Indemnité de télétravail</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">jusqu'à 50 € brut / mois</td>
-   </tr>
-   </tbody>
- </table>
+      <td>Indemnité de télétravail</td>
+      <td>jusqu'à 50 € brut / mois</td>
+    </tr>
+  </tbody>
+</table>
+
  
 <p>
    
