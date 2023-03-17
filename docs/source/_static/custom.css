@@ -9,7 +9,7 @@ a {
 }
 
 /* Ajoute une bordure aux tableaux */
-table {
+mytable {
   border-collapse: collapse;
   font-family: Arial, sans-serif;
 }
