@@ -37,7 +37,7 @@ tbody tr:nth-child(odd) {
 
 /* Style des hints */
 .hint {
-  background-color: #FFF1EB;
+  background-color: #FFF1EB !important;
   padding: 10px;
   border-radius: 5px;
 }
