@@ -15,11 +15,11 @@ Notre mission : réduire les asymétries d’information et permettre à chacun 
 ---
 
 ## Découvrir nos valeurs
-<div class="hint">
+<div class="myhint">
    Astuce : Vous trouverez notre philosophie et notre raison d'être sur notre <a href="https://datactivist.coop/fr/a-propos/">site internet</a>.
 </div>
 
-<span class="hint">Texte à afficher dans le hint</span>
+<span class="myhint">Texte à afficher dans le hint</span>
 
 ### Ouverture
 L’ouverture des données réduit les asymétries d’information et crée une société plus égalitaire. Aujourd’hui inscrite dans la loi en France, l’ouverture des données par principe trouve ses fondements dans la Déclaration des droits de l’homme et du citoyen de 1789 qui stipule que « la Société a le droit de demander compte à tout Agent public de son administration.» En donnant accès au fondement de l’information et du savoir, l’ouverture des données renouvelle la transparence, casse les silos informationnels et favorise la participation.
