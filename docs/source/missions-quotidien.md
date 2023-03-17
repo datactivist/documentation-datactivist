@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="_static/style.css">
+
 # Réaliser ses missions au quotidien
 
 ## Bonnes pratiques
