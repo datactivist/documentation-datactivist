@@ -87,7 +87,7 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Grille de salaire avec trois niveaux**
 
- <table border="1">
+ <mytable border="1">
   <thead>
     <tr>
       <th>Niveau</th>
