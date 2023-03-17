@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="_static/style.css">
+<link rel="stylesheet" type="text/css" href="/_static/custom.css">
 </head>
 
 # Travailler chez Datactivist
