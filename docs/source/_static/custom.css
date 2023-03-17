@@ -4,6 +4,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #173541;
 }
 
+a {
+  color: #E95459;
+}
+
 /* Ajoute une bordure aux tableaux */
 table {
   border-collapse: collapse;
