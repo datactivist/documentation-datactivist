@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href="_static/style.css">
+</head>
 
 # Réaliser ses missions au quotidien
 
