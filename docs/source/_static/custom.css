@@ -36,43 +36,14 @@ tbody tr:nth-child(odd) {
 }
 
 /* Style pour les hints */
-.admonition {
-    border-radius: 5px;
-    border-width: 1px;
-    border-style: solid;
-    margin: 10px 0px;
-    padding: 10px 15px;
-    position: relative;
+.tip {
+  background-color: #FFF1EB;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
 }
 
-.admonition:before {
-    background: #4CAF50;
-    border-radius: 50%;
-    content: "i";
-    color: #FFFFFF;
-    font-size: 18px;
-    height: 36px;
-    left: -18px;
-    line-height: 36px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 36px;
-}
-
-.admonition-tip:before {
-    background: #2196F3;
-}
-
-.admonition-warning:before {
-    background: #FFC107;
-}
-
-.admonition-important:before {
-    background: #F44336;
-}
-
-.admonition-note:before {
-    background: #9C27B0;
+.tip:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
