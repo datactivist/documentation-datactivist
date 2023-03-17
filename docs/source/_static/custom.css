@@ -40,10 +40,4 @@ tbody tr:nth-child(odd) {
   background-color: #FFF1EB;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 2px 2px 5px #999;
-  transition: box-shadow 0.3s ease-in-out;
-}
-
-.hint:hover {
-  box-shadow: 4px 4px 10px #999;
 }
