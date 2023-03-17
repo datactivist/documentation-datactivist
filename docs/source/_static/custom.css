@@ -11,40 +11,27 @@ a {
 /* Ajoute une bordure aux tableaux */
 table {
   border-collapse: collapse;
-  width: 100%;
-  margin-bottom: 1rem;
-  color: #173541;
-  font-family: Montserrat, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
-th {
+thead th {
   background-color: #173541;
-  color: #fff;
-  padding: 1rem;
-  text-align: left;
-  border: 1px solid #173541;
+  color: #ffffff;
+  padding: 10px;
 }
 
-th:first-child {
-  border-top-left-radius: 5px;
+tbody tr:nth-child(even) {
+  background-color: #FFF1EB;
 }
 
-th:last-child {
-  border-top-right-radius: 5px;
+tbody tr:nth-child(odd) {
+  background-color: #FAF1E6;
 }
 
-td {
-  padding: 1rem;
-  border: 1px solid #ccc;
+tbody td {
+  padding: 10px;
 }
 
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-tr:nth-child(odd) {
-  background-color: #fff1eb;
-}
 
 /* Style des hints */
 .myhint {
