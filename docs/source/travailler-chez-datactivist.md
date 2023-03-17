@@ -1,3 +1,7 @@
+<head>
+   <link rel="stylesheet" href="_static/style.css">
+</head>
+
 # Travailler chez Datactivist
 
 ## Arriver chez Datactivist
