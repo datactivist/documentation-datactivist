@@ -12,7 +12,7 @@ Texte
 
 ### Notre charte graphique
 
-<div id="my-hint">
+<div id="hint">
 L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">charte graphique est accessible ici</a>.
 </div>
 
