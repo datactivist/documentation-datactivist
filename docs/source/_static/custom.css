@@ -35,15 +35,15 @@ tbody tr:nth-child(odd) {
   background-color: #fff;
 }
 
-/* Style pour les hints */
-.tip {
+/* Style des hints */
+.hint {
   background-color: #FFF1EB;
   padding: 10px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #999;
   transition: box-shadow 0.3s ease-in-out;
 }
 
-.tip:hover {
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+.hint:hover {
+  box-shadow: 4px 4px 10px #999;
 }
