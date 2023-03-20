@@ -30,13 +30,13 @@ Informations à récolter :
 
 
 <div class="myhint">
-WARNING : cela est important, car ce sont des interventions précises et préparées en amont. Il est donc très difficile de live twitter sans support fournis au préalable !
+⚠️ Cela est important, car ce sont des interventions précises et préparées en amont. Il est donc très difficile de live twitter sans support fournis au préalable !
 </div>
 
 - liens vers les projets qui seront évoqués.
 
 <div class="myhint">
-NB : notamment, dans le cas des tables rondes ! il est difficile de tout noter en live. Il est souvent fait mention d’un projet, d’un événement,.. Ce sont éléments difficiles à prendre en note sur le coup
+⚠️ Dans le cas des tables rondes, il est difficile de tout noter en live. Il est souvent fait mention d’un projet, d’un événement,.. Ce sont éléments difficiles à prendre en note sur le coup
 </div>
 
 - images (photos intervenants par exemple)
