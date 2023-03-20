@@ -4,22 +4,18 @@
 
 # Travailler chez Datactivist
 
-## Arriver chez Datactivist
-
-Datactivist est une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
-
-Nous positionnant à toutes les étapes du travail d’ouverture et de réutilisation des données, Datactivist travaille tant avec les producteurs de données qu’avec les réutilisateurs.
-
-Notre mission : réduire les asymétries d’information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.
-
----
-
 ## Découvrir nos valeurs
 <div class="myhint">
    Vous trouverez notre philosophie et notre raison d'être sur notre <a href="https://datactivist.coop/fr/a-propos/">site internet</a>.
 </div>
 
 <p>
+   
+Datactivist est une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
+
+Nous positionnant à toutes les étapes du travail d’ouverture et de réutilisation des données, Datactivist travaille tant avec les producteurs de données qu’avec les réutilisateurs.
+
+Notre mission : réduire les asymétries d’information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.
 
 ### Ouverture
 L’ouverture des données réduit les asymétries d’information et crée une société plus égalitaire. Aujourd’hui inscrite dans la loi en France, l’ouverture des données par principe trouve ses fondements dans la Déclaration des droits de l’homme et du citoyen de 1789 qui stipule que « la Société a le droit de demander compte à tout Agent public de son administration.» En donnant accès au fondement de l’information et du savoir, l’ouverture des données renouvelle la transparence, casse les silos informationnels et favorise la participation.
@@ -74,7 +70,18 @@ Concrètement :
 
 Ces conditions favorisent un partage de compétences et un travail de qualité. Elles permettent aux projets professionnels et personnels (et parfois même à la jonction des deux) de se réaliser, sans les entraves du présentéisme et de la réunionite.
 
+## Informations essentielles
+   
+### Données administratives
 
+👉 Consulter la [fiche de Datactivist](https://annuaire-entreprises.data.gouv.fr/etablissement/82379887100013) sur l'annuaire des entreprises
+ 
+### Réseaux sociaux
+
+- Notre [compte Twitter](https://twitter.com/datactivi_st)
+- Notre [compte Linkedin](https://www.linkedin.com/company/datactivist/)
+- Notre [page Medium](https://medium.com/datactivist)
+   
 ## Explorer nos missions
 
 Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
