@@ -92,6 +92,8 @@ Concrètement :
 → Datactivist a co-fondé l’alliance **Data Publica** pour additionner nos forces à celles d’entreprises partageant nos valeurs en créant une marque commune pour accompagner les acteurs
    
 <details>
+
+<details>
 <summary><b>Épanouissement</b></summary>
 
 On ne vit qu’une fois : le temps que nous passons à travailler doit être au maximum utile, épanouissant et respectueux de nos vies. Les données, leur partage et la créativité qui en découlent peuvent être source de satisfaction et de réjouissance.
