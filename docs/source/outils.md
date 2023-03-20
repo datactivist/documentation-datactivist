@@ -1,5 +1,51 @@
 # Les outils
 
+## Liste des outils employés chez Datactivist
+
+<table class="mytable">
+  <thead>
+    <tr>
+      <th>Outil</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Basecamp</td>
+      <td>Notre outil de communication interne et gestion des projets</td>
+    </tr>
+    <tr>
+      <td>Odoo</td>
+      <td>Pour notre gestion interne et administrative et éditer notre site internet</td>
+    </tr>
+    <tr>
+      <td>NextCloud</td>
+      <td>Pour héberger nos fichiers</td>
+    </tr>
+    <tr>
+      <td>Airtable</td>
+      <td>Pour créer des bases de données relationnelles</td>
+    </tr>
+    <tr>
+      <td>APITable</td>
+      <td>Alternative libre à Airtable</td>
+    </tr>
+    <tr>
+      <td>Gather Town</td>
+      <td>Pour nos visioconférences</td>
+    </tr>
+    <tr>
+      <td>Miro</td>
+      <td>Pour préparer des ateliers collaboratifs en ligne</td>
+    </tr>
+    <tr>
+      <td>Modulo</td>
+      <td>Pour préparer des déroulés d'évènements ou ateliers</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Comment faire une présentation avec Xaringan ?
 
 ### Objectifs
