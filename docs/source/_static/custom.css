@@ -38,11 +38,7 @@ tbody td {
   background-color: #FFF1EB;
   padding: 10px;
   margin: 10px 0;
-  box-shadow: 1px 1px 3px #E95459;
 }
 .myhint a {
   color: #E95459;
-}
-.myhint:hover {
-  box-shadow: 2px 2px 5px #E95459;
 }
