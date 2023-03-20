@@ -16,14 +16,26 @@
 - Notre [compte Linkedin](https://www.linkedin.com/company/datactivist/)
 - Notre [page Medium](https://medium.com/datactivist)
    
-## Explorer nos missions
+## Comprendre notre mission
+
+### Nos références
 
 Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
 
 Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
 
+### Liste de lecture
+
+- [Le travail invisible des données](https://www.pressesdesmines.com/produit/le-travail-invisible-des-donnees/)
+- [Thèse de Samuel Goëta](https://datactivist.coop/these)
+- [Comment j’ai (presque) cartographié les électeurs FN à l’adresse](https://joelgombin.github.io/makingof.html)
+- [Défis de la réutilisation des données ouvertes et stratégies alternatives](https://datactivist.coop/metsem/)
+- [Datasheet for Datasets](https://teamopendata.org/t/traduction-et-adaptation-du-modele-de-description-des-donnees-datasheet-for-datasets/1400)
+- [Ouvrir la science](https://www.ouvrirlascience.fr/etude-de-faisabilite-dun-service-generique-daccueil-et-de-diffusion-des-donnees-simples-recueil-des-besoins-et-des-contraintes-des-usagers/)
+
 
 ## Découvrir nos valeurs
+
 <div class="myhint">
    Vous trouverez notre philosophie et notre raison d'être sur notre <a href="https://datactivist.coop/fr/a-propos/">site internet</a>.
 </div>
