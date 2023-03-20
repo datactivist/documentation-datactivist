@@ -4,6 +4,25 @@
 
 # Travailler chez Datactivist
 
+## Informations essentielles
+   
+### Données administratives
+
+👉 Consulter la [fiche de Datactivist](https://annuaire-entreprises.data.gouv.fr/etablissement/82379887100013) sur l'annuaire des entreprises
+ 
+### Réseaux sociaux
+
+- Notre [compte Twitter](https://twitter.com/datactivi_st)
+- Notre [compte Linkedin](https://www.linkedin.com/company/datactivist/)
+- Notre [page Medium](https://medium.com/datactivist)
+   
+## Explorer nos missions
+
+Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
+
+Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
+
+
 ## Découvrir nos valeurs
 <div class="myhint">
    Vous trouverez notre philosophie et notre raison d'être sur notre <a href="https://datactivist.coop/fr/a-propos/">site internet</a>.
@@ -69,24 +88,6 @@ Concrètement :
 → L’équipe travaille de concert, à distance et en mobilité au plus proche des clients, **via des outils collaboratifs** qu’elle sélectionne.
 
 Ces conditions favorisent un partage de compétences et un travail de qualité. Elles permettent aux projets professionnels et personnels (et parfois même à la jonction des deux) de se réaliser, sans les entraves du présentéisme et de la réunionite.
-
-## Informations essentielles
-   
-### Données administratives
-
-👉 Consulter la [fiche de Datactivist](https://annuaire-entreprises.data.gouv.fr/etablissement/82379887100013) sur l'annuaire des entreprises
- 
-### Réseaux sociaux
-
-- Notre [compte Twitter](https://twitter.com/datactivi_st)
-- Notre [compte Linkedin](https://www.linkedin.com/company/datactivist/)
-- Notre [page Medium](https://medium.com/datactivist)
-   
-## Explorer nos missions
-
-Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
-
-Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
 
 ## Notre politique salariale
 
