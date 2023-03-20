@@ -26,9 +26,7 @@ Notre mission : réduire les asymétries d’information et permettre à chacun 
 
 ### Nos références
 
-<div class="myhint">
-   Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
-</div>
+Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
 <p>
 Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
 
