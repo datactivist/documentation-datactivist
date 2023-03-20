@@ -64,7 +64,7 @@ Concrètement :
 → Nous appliquons aussi l’ouverture à nous-même en partageant la liste de nos références et en **donnant accès à nos salariés à l’ensemble des projets.**
 
 </details>
-
+<p>
 <details>
    <summary><b>Emancipation</b></summary>
 
@@ -81,7 +81,7 @@ Concrètement :
 → Datactivist fait partie des sociétaires fondateurs de **La MedNum,** la coopérative de la médiation numérique.
 
 </details>
-
+<p>
 <details>
    <summary><b>Coopération</b></summary>
 
@@ -92,7 +92,7 @@ Concrètement :
 → Datactivist a co-fondé l’alliance **Data Publica** pour additionner nos forces à celles d’entreprises partageant nos valeurs en créant une marque commune pour accompagner les acteurs
    
 </details>
-
+<p>
 <details>
 <summary><b>Épanouissement</b></summary>
 
