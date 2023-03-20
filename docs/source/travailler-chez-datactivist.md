@@ -107,7 +107,7 @@ Ces conditions favorisent un partage de compétences et un travail de qualité. 
 
 </details>
 
-<p>
+<br>
 
 ## Notre politique salariale
 
