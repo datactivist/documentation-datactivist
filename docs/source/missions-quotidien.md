@@ -76,9 +76,9 @@ Chaque communauté est animée par un animateur, mandaté pour 6 mois et rémun�
 
 #### Ressources utiles
 
-- Les [fiches outils du consultants](https://nx12829.your-storageshare.de/index.php/f/695267), Pierre-Michel do Marcolino
-- Le [grand guide du métier de consultant](https://nx12829.your-storageshare.de/index.php/f/695273), Yves-André Perez
-- Le [métier de consultant, principes, méthodes, outils](https://nx12829.your-storageshare.de/index.php/f/695279), Patrice Stern et Patricia Turtoy
+- [Les fiches outils du consultants](https://nx12829.your-storageshare.de/index.php/f/695267), Pierre-Michel do Marcolino
+- [Le grand guide du métier de consultant](https://nx12829.your-storageshare.de/index.php/f/695273), Yves-André Perez
+- [Le métier de consultant, principes, méthodes, outils](https://nx12829.your-storageshare.de/index.php/f/695279), Patrice Stern et Patricia Turtoy
 - [Consultant, se lancer](https://nx12829.your-storageshare.de/index.php/f/575592), Arnaud Cielle
 
 ### Principales règles des communautés 
