@@ -55,6 +55,8 @@ L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">c
 
 </table>
 
+<br>
+
 ## Communautés de pratique
 
 Datactivist a mis en place un dispositif de partage de connaissance : les communautés de pratique.
