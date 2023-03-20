@@ -62,7 +62,7 @@ L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">c
 Datactivist a mis en place un dispositif de partage de connaissance : les communautés de pratique.
 Chaque communauté est animée par un animateur, mandaté pour 6 mois et rémunéré pour ce rôle. Des temps d'échanges et de partage sont organisés régulièrement.
 
-### Liste des communautés
+## Les communautés
 
 - Communauté IT / infra
 - communauté data sourcing
@@ -71,6 +71,15 @@ Chaque communauté est animée par un animateur, mandaté pour 6 mois et rémun�
 - Communauté juridique
 - Communauté communication
 - Communauté des métiers du conseil
+
+### Communauté métiers du conseil
+
+#### Ressources utiles
+
+- Les [fiches outils du consultants](https://nx12829.your-storageshare.de/index.php/f/695267), Pierre-Michel do Marcolino
+- Le [grand guide du métier de consultant](https://nx12829.your-storageshare.de/index.php/f/695273), Yves-André Perez
+- Le [métier de consultant, principes, méthodes, outils](https://nx12829.your-storageshare.de/index.php/f/695279), Patrice Stern et Patricia Turtoy
+- [Consultant, se lancer](https://nx12829.your-storageshare.de/index.php/f/575592), Arnaud Cielle
 
 ### Principales règles des communautés 
 
