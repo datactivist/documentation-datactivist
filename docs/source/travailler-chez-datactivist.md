@@ -51,7 +51,7 @@ Nous positionnant à toutes les étapes du travail d’ouverture et de réutilis
 Notre mission : réduire les asymétries d’information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.
 
 <details>
-<summary> <h3>Ouverture</h3> </summary>
+<summary>**Ouverture**</summary>
 
 L’ouverture des données réduit les asymétries d’information et crée une société plus égalitaire. Aujourd’hui inscrite dans la loi en France, l’ouverture des données par principe trouve ses fondements dans la Déclaration des droits de l’homme et du citoyen de 1789 qui stipule que « la Société a le droit de demander compte à tout Agent public de son administration.» En donnant accès au fondement de l’information et du savoir, l’ouverture des données renouvelle la transparence, casse les silos informationnels et favorise la participation.
 
@@ -66,7 +66,7 @@ Concrètement :
 </details>
 
 <details>
-<summary> <h3>Emancipation</h3> </summary>
+<summary>**Emancipation**</summary>
 
 Nous sommes conscients que donner accès aux données ne suffit pas. Défenseurs de la data literacy, nous inscrivant dans l’histoire de l’éducation populaire, nous soutenons que donner du sens aux données est une compétence essentielle qui ne doit plus être réservée à une frange de la population. Les données faisant tenir la réalité selon l’expression d’Alain Desrosières, nous voulons permettre à chacun de s’approprier les données sans naïveté, mais sans pessimisme.
 
@@ -83,13 +83,28 @@ Concrètement :
 </details>
 
 <details>
-<summary> <h3>Coopération</h3> </summary>
+<summary>**Coopération**</summary>
 
 Nous croyons en l’intelligence collective et la gouvernance ouverte. Cette vision, nous la défendons aussi pour l’open data. Nous souhaitons que les données ouvertes deviennent une ressource gérée avec ses usagers, autrement dit un commun. Cela suppose de se concerter avec les parties prenantes et d’ouvrir la gouvernance.
 
 Concrètement :
 
 → Datactivist a co-fondé l’alliance **Data Publica** pour additionner nos forces à celles d’entreprises partageant nos valeurs en créant une marque commune pour accompagner les acteurs
+   
+<details>
+<summary>**Épanouissement**</summary>
+
+On ne vit qu’une fois : le temps que nous passons à travailler doit être au maximum utile, épanouissant et respectueux de nos vies. Les données, leur partage et la créativité qui en découlent peuvent être source de satisfaction et de réjouissance.
+
+Concrètement :
+
+→ Datactivist est une SCOP (société coopérative et participative) gouvernée démocratiquement par ses salariés qui sont les architectes de leur cadre de travail. Cela signifie par exemple que nous définissons ensemble nos rémunérations en fonction de critères discutés collectivement.
+→ Datactivist favorise aussi une grande autonomie pour ses collaborateurs qui choisissent leur lieu de travail, leurs horaires, leur rythme.
+→ L’équipe travaille de concert, à distance et en mobilité au plus proche des clients, via des outils collaboratifs qu’elle sélectionne.
+Ces conditions favorisent un partage de compétences et un travail de qualité. Elles permettent aux projets professionnels et personnels (et parfois même à la jonction des deux) de se réaliser, sans les entraves du présentéisme et de la réunionite.
+
+</details>
+
 
 
 ## Notre politique salariale
