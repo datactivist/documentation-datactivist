@@ -51,7 +51,7 @@ Nous positionnant à toutes les étapes du travail d’ouverture et de réutilis
 Notre mission : réduire les asymétries d’information et permettre à chacun de s’approprier les données, sans naïveté mais sans pessimisme.
 
 <details>
-<summary>**Ouverture**</summary>
+   <summary><b>Ouverture</b></summary>
 
 L’ouverture des données réduit les asymétries d’information et crée une société plus égalitaire. Aujourd’hui inscrite dans la loi en France, l’ouverture des données par principe trouve ses fondements dans la Déclaration des droits de l’homme et du citoyen de 1789 qui stipule que « la Société a le droit de demander compte à tout Agent public de son administration.» En donnant accès au fondement de l’information et du savoir, l’ouverture des données renouvelle la transparence, casse les silos informationnels et favorise la participation.
 
@@ -66,7 +66,7 @@ Concrètement :
 </details>
 
 <details>
-<summary>**Emancipation**</summary>
+   <summary><b>Emancipation</b></summary>
 
 Nous sommes conscients que donner accès aux données ne suffit pas. Défenseurs de la data literacy, nous inscrivant dans l’histoire de l’éducation populaire, nous soutenons que donner du sens aux données est une compétence essentielle qui ne doit plus être réservée à une frange de la population. Les données faisant tenir la réalité selon l’expression d’Alain Desrosières, nous voulons permettre à chacun de s’approprier les données sans naïveté, mais sans pessimisme.
 
@@ -83,7 +83,7 @@ Concrètement :
 </details>
 
 <details>
-<summary>**Coopération**</summary>
+   <summary><b>Coopération</b></summary>
 
 Nous croyons en l’intelligence collective et la gouvernance ouverte. Cette vision, nous la défendons aussi pour l’open data. Nous souhaitons que les données ouvertes deviennent une ressource gérée avec ses usagers, autrement dit un commun. Cela suppose de se concerter avec les parties prenantes et d’ouvrir la gouvernance.
 
@@ -92,7 +92,7 @@ Concrètement :
 → Datactivist a co-fondé l’alliance **Data Publica** pour additionner nos forces à celles d’entreprises partageant nos valeurs en créant une marque commune pour accompagner les acteurs
    
 <details>
-<summary>**Épanouissement**</summary>
+<summary><b>Épanouissement</b></summary>
 
 On ne vit qu’une fois : le temps que nous passons à travailler doit être au maximum utile, épanouissant et respectueux de nos vies. Les données, leur partage et la créativité qui en découlent peuvent être source de satisfaction et de réjouissance.
 
@@ -105,7 +105,7 @@ Ces conditions favorisent un partage de compétences et un travail de qualité. 
 
 </details>
 
-
+<p>
 
 ## Notre politique salariale
 
