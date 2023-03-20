@@ -55,4 +55,29 @@ L'ensemble de la <a href="docs/source/public/Charte_graphique_datactivist.pdf">c
 
 </table>
 
+## Communautés de pratique
 
+Datactivist a mis en place un dispositif de partage de connaissance : les communautés de pratique.
+Chaque communauté est animée par un animateur, mandaté pour 6 mois et rémunéré pour ce rôle. Des temps d'échanges et de partage sont organisés régulièrement.
+
+### Liste des communautés
+
+- Communauté IT / infra
+- communauté data sourcing
+- Communauté médiation et data literacy
+- Communauté R&D
+- Communauté juridique
+- Communauté communication
+- Communauté des métiers du conseil
+
+### Principales règles des communautés 
+
+- l'animateur structure l'activité de veille de sa communauté
+- l'animateur organise et met à jour le carnet d’adresse de la communauté
+- la communauté est une ressource pour la coopérative et l’animateur aide à identifier les membres les plus à même à répondre selon les sollicitations
+- l'animateur organise un partage de connaissances régulier vers la coopérative et vers l'extérieur
+- enfin, les communautés ont une place dans le pré-boarding, l'onboarding, et l'entretien annuel.
+
+### Ouverture des communautés à l'extérieur
+
+👉 La communauté "métiers du conseil" [propose des temps collaboratifs ouverts au public](https://odoo.datactivist.coop/blog/datactivist-1/devenons-ensemble-de-meilleurs-consultants-2)
