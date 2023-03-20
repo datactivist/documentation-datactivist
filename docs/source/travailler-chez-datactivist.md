@@ -87,7 +87,7 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Grille de salaire avec trois niveaux**
 
-<table class="mytable" border="1">
+<table class="mytable">
   <thead>
     <tr>
       <th>Niveau</th>
@@ -116,7 +116,7 @@ Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au
 
 **Primes en fonction des responsabilités :**
 
-<table>
+<table class="mytable">
   <thead>
     <tr>
       <th>Objet</th>
@@ -156,32 +156,33 @@ Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers 
 
 ### Les avantages sociaux
    
-<table border="1" style="background-color: #f2f2f2; border-collapse: collapse; font-family: Arial, sans-serif;">
+<table class="mytable">
   <thead>
     <tr>
-      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Objet</th>
-      <th style="background-color: #173541; color: #ffffff; padding: 10px;">Montant</th>
+      <th>Objet</th>
+      <th>Montant</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Prise en charge de l’abonnement aux transports en commun.</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">50% du montant</td>
+      <td>Prise en charge de l’abonnement aux transports en commun.</td>
+      <td>50% du montant</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Tickets restaurant SWILE d’une valeur faciale de 9,48 €</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">Prise en charge à 60%</td>
+      <td>Tickets restaurant SWILE d’une valeur faciale de 9,48 €</td>
+      <td>Prise en charge à 60%</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Forfait mobilité durable</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">500 € ou 600 € / an</td>
+      <td>Forfait mobilité durable</td>
+      <td>500 € ou 600 € / an</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2; padding: 10px;">Chèques culture</td>
-      <td style="background-color: #f2f2f2; padding: 10px;">150 € / salarié·e</td>
+      <td>Chèques culture</td>
+      <td>150 € / salarié·e</td>
     </tr>
   </tbody>
 </table>
+
 
 <p>
   
