@@ -20,8 +20,10 @@
 
 ### Nos références
 
-Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
-
+<div class="myhint">
+   Une partie de nos références se trouvent sur [cette page](https://datactivist.coop/fr/references/)
+</div>
+<p>
 Aussi, nous rédigeons des [articles de blog](https://medium.com/datactivist) au sujet de nos missions.
 
 ### Liste de lecture
