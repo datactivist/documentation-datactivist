@@ -45,6 +45,7 @@
   </tbody>
 </table>
 
+<br>
 
 ## Comment faire une présentation avec Xaringan ?
 
