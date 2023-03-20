@@ -6,7 +6,69 @@
 
 ## Bonnes pratiques
 
-Texte
+### Comment live-tweeter un évènement ?
+
+*Vous devez faire un live tweet pour un webinaire que nous organisons… Voici quelques conseils pour faire au mieux !*
+
+#### Comment se préparer ?
+
+**Plusieurs jours en amont**
+
+Communiquer sur le webinaire, les organisateurs, le lien du webinaire et teaser les intervenants, date et heure.
+
+Informations à récolter :
+
+- nom du webinaire, 
+- date, 
+- heure,
+- organisateurs
+- lien du webinaire ou d'inscription du webinaire
+- programme du webinaire
+- ID et mdp de connexion au compte Twitter depuis lequel le LT aura lieu (pour Datactivist ou Data Publica)
+- noms, fonctions et compte twitter des intervenants
+- verbatim (le texte écrit en amont) des interventions quand ils existent. C’est souvent le cas pour les experts qui interviennent. 
+
+
+<div class="myhint">
+WARNING : cela est important, car ce sont des interventions précises et préparées en amont. Il est donc très difficile de live twitter sans support fournis au préalable !
+</div>
+
+- liens vers les projets qui seront évoqués.
+
+<div class="myhint">
+NB : notamment, dans le cas des tables rondes ! il est difficile de tout noter en live. Il est souvent fait mention d’un projet, d’un événement,.. Ce sont éléments difficiles à prendre en note sur le coup
+</div>
+
+- images (photos intervenants par exemple)
+- supports de présentation qui seront montrés
+
+#### Comment live-tweeter pendant l'évènement ?
+
+Prenez exemple sur des live tweet que vous pouvez trouver sur Twitter, notamment [cet exemple made in Datactivist](https://twitter.com/Obs_DataPublica/status/1489170166755868675). Les pratiques peuvent toutefois évoluer, n’hésitez pas à partir à l’exploration sur Twitter pour se sentir à l’aise !
+
+- annoncer le fil de la discussion avec [THREAD] ou [LIVE TWEET] au début du premier tweet
+- twitter dans le fil en conversation pour garder le tout en continu
+- mettre des visuels ou images de temps en temps pour varier le format des tweets
+- utiliser les @ des intervenants, des entreprises/structures citées (pour créer de visibilité et de la circulation) quand on les cite par exemple
+- essayer d’alterner les citations, les résumés, les annonces 
+- Il faut mettre du rythme pour accrocher le/la lectreur.trice !
+- Essayer d’être précis.e. Les personnes qui suivent le webinaire viennent cueillir des informations, découvrir des projets, apprendre des choses.. Il faut essayer de leur donner tout ça dans ce live tweet !
+- à la fin, annoncer s’il y a une suite + mettre le lien du replay quand il y en a
+
+#### Après
+
+- si c’est glorieux, annoncer le nombre de personnes qui se sont connectées !
+- retweeter le thread
+- répondre aux questions quand il y en a
+
+#### Pièges
+
+- comment gérer quand il faut supprimer au milieu du fil ?
+- problèmes de connexion internet
+- attention à la charge de la batterie
+- quid des fautes de frappe ou erreurs dans un tweet
+
+Enfin, faire au mieux ! C’est un exercice qui n’est pas évident !
 
 ## Ressources
 
