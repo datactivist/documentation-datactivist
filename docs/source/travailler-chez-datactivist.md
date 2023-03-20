@@ -91,7 +91,7 @@ Concrètement :
 
 → Datactivist a co-fondé l’alliance **Data Publica** pour additionner nos forces à celles d’entreprises partageant nos valeurs en créant une marque commune pour accompagner les acteurs
    
-<details>
+</details>
 
 <details>
 <summary><b>Épanouissement</b></summary>
