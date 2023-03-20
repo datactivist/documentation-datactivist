@@ -174,7 +174,7 @@ Ces conditions favorisent un partage de compétences et un travail de qualité. 
 
 **Accord de participation** actualisé en 2021 pour l’ensemble des salarié·e·s à partir de trois mois de présence dans la SCOP. 
 
-Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers exercices)sont répartis en fonction de la quotité de temps de travail et de l’ancienneté et bloqués pendant 5 ans (avec possibilité de déblocage anticipé dans certains cas).
+Les droits (50 % du résultat net annuel, en moy. 40k€ sur les trois derniers exercices) sont répartis en fonction de la quotité de temps de travail et de l’ancienneté et bloqués pendant 5 ans (avec possibilité de déblocage anticipé dans certains cas).
    
 **Accord d’intéressement** mis en place en fin d’année 2022.
    
