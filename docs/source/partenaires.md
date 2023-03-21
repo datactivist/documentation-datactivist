@@ -23,6 +23,7 @@ Datactivist propose des temps d'échange avec ses équipes, sur des sujets spéc
   </tbody>
 </table>
 
+<br>
 
 ## Nos partenaires
 
